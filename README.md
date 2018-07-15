@@ -1,3 +1,14 @@
+THIS REPO IS OBSOLITE! 
+
+PLEASE GOTO...
+
+https://github.com/bigjosh/Move38-Arduino-Platform
+
+
+.. FOR THE REPO THAT WORKS WITH THE KICKSTARTER VERSIONS OF THE BLINKS TILES!
+
+
+
 # Move32 blinks lib
 
 Arduino library for writing games to run on the Move32 Automatiles platform.
